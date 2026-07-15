@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "options": [
+            "<a>",
+            "<link>",
+            "<href>",
+            "<url>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "question": "Which CSS property is used to change the text color?",
+        "options": [
+            "font-color",
+            "text-color",
+            "color",
+            "background-color"
+        ],
+        "answer": "color"
+    },
+    {
+        "question": "Which JavaScript keyword is used to declare a constant variable?",
+        "options": [
+            "var",
+            "let",
+            "const",
+            "static"
+        ],
+        "answer": "const"
+    },
+    {
+        "question": "Which React Hook is used to manage component state?",
+        "options": [
+            "useEffect",
+            "useContext",
+            "useState",
+            "useMemo"
+        ],
+        "answer": "useState"
+    },
+    {
+        "question": "Which method converts a JavaScript object into a JSON string?",
+        "options": [
+            "JSON.parse()",
+            "JSON.stringify()",
+            "JSON.convert()",
+            "JSON.object()"
+        ],
+        "answer": "JSON.stringify()"
+    }
+]
